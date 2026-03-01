@@ -11,8 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-Project-181717?style=flat-square&logo=github" alt="GitHub Project"></a>
 </p>
 
-
-![Teaser](figure/teaser.pdf)
+![Model](figure/model.png)
 
 ## Abstract
 
@@ -100,6 +99,10 @@ python inference_acfg.py \
 }
 ```
 
+
+![Result1](figure/result1.png)
+
+![Result2](figure/result2.png)
 
 ## License
 
