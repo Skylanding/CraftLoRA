@@ -102,7 +102,6 @@ python inference_acfg.py \
 
 ![Result1](figure/result1.png)
 
-![Result2](figure/result2.png)
 
 ## License
 
