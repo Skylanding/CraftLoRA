@@ -1,14 +1,33 @@
-<h3 align="center">
+<h2 align="center">
 <b>CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion</b>
 <br>
-</h3>
+<em>CVPR 2026</em>
+</h2>
+
+<p align="center">
+  Yu Li<sup>1,2</sup> &nbsp;&nbsp;
+  Yujun Cai<sup>3</sup> &nbsp;&nbsp;
+  Chi Zhang<sup>1*</sup>
+</p>
+
+<p align="center">
+  <sup>1</sup>AGI Lab, Westlake University &nbsp;&nbsp;
+  <sup>2</sup>George Washington University &nbsp;&nbsp;
+  <sup>3</sup>The University of Queensland
+</p>
+
+<p align="center">
+  <em>* Corresponding author</em>
+</p>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2602.18936">
     <img src="https://img.shields.io/badge/arXiv-2602.18936-red?style=flat-square&logo=arxiv" alt="arXiv Paper"></a>
   &nbsp;
   <a href="https://github.com/Skylanding/CraftLoRA">
-    <img src="https://img.shields.io/badge/GitHub-Project-181717?style=flat-square&logo=github" alt="GitHub Project"></a>
+    <img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" alt="GitHub Code"></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square" alt="CVPR 2026">
 </p>
 
 ![Model](figure/model.png)
@@ -98,7 +117,6 @@ python inference_acfg.py \
   year={2026}
 }
 ```
-
 
 ![Result1](figure/result1.png)
 
