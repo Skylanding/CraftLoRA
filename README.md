@@ -97,8 +97,11 @@ python inference_acfg.py \
     --guidance_omega=7.5
 ```
 
-## Citation
 
+![Result1](figure/result1.png)
+
+
+## Citation
 ```bibtex
 @article{li2026craft,
   title={CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion},
@@ -107,9 +110,6 @@ python inference_acfg.py \
   year={2026}
 }
 ```
-
-![Result1](figure/result1.png)
-
 
 ## License
 
