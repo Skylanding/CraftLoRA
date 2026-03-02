@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">
   CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion<br>
-  <small>CVPR 2026</small>
+  <sub><sub>CVPR 2026 Main Track</sub></sub>
   </h1>
   <p align="center">
     <strong>Yu Li</strong><sup>1,2</sup>
