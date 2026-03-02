@@ -1,36 +1,26 @@
-<h2 align="center">
-<b>CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion</b>
-<br>
-<em>CVPR 2026</em>
-</h2>
-
 <p align="center">
-  Yu Li<sup>1,2</sup> &nbsp;&nbsp;
-  Yujun Cai<sup>3</sup> &nbsp;&nbsp;
-  Chi Zhang<sup>1*</sup>
+  <h1 align="center">
+  CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion<br>
+  <small>CVPR 2026</small>
+  </h1>
+  <p align="center">
+    <strong>Yu Li</strong><sup>1,2</sup>
+    &nbsp;&nbsp;
+    <strong>Yujun Cai</strong><sup>3</sup>
+    &nbsp;&nbsp;
+    <strong>Chi Zhang</strong><sup>1✉</sup>
+    <br>
+    <sup>1</sup>AGI Lab, Westlake University&nbsp;&nbsp;
+    <sup>2</sup>George Washington University&nbsp;&nbsp;
+    <sup>3</sup>The University of Queensland
+    <br>
+    <a href='https://arxiv.org/abs/2602.18936'><img src='https://img.shields.io/badge/ArXiv-2602.18936-red'></a>&nbsp;
+    <a href='https://github.com/Skylanding/CraftLoRA'><img src='https://img.shields.io/badge/GitHub-Code-black?logo=github'></a>&nbsp;
+    <br>
+    <img src="figure/model.png">
+  </p>
+  <br>
 </p>
-
-<p align="center">
-  <sup>1</sup>AGI Lab, Westlake University &nbsp;&nbsp;
-  <sup>2</sup>George Washington University &nbsp;&nbsp;
-  <sup>3</sup>The University of Queensland
-</p>
-
-<p align="center">
-  <em>* Corresponding author</em>
-</p>
-
-<p align="center">
-  <a href="https://arxiv.org/abs/2602.18936">
-    <img src="https://img.shields.io/badge/arXiv-2602.18936-red?style=flat-square&logo=arxiv" alt="arXiv Paper"></a>
-  &nbsp;
-  <a href="https://github.com/Skylanding/CraftLoRA">
-    <img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" alt="GitHub Code"></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square" alt="CVPR 2026">
-</p>
-
-![Model](figure/model.png)
 
 ## Abstract
 
